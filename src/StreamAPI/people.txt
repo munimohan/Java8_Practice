@@ -1,0 +1,3 @@
+sam 2 SE Male 10000 25
+Tej 4 Manager 20000 56
+Ram 5 Lead 30000 34
